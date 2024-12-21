@@ -1,0 +1,18 @@
+div{
+    border: solid 4px blue;
+    width: 400px;
+    height: 220px;
+    margin: auto;
+    padding: 15px;
+}
+.a{
+    border-radius: 7px;
+    border: solid 4px red;
+    width: 360px;
+    height: 190px;
+    text-align: center;
+   
+}
+p{
+    padding: 50px 30px 30px 20px;
+}
